@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.shiftedtech.September01.GoogleTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.846 sec - in com.shiftedtech.September01.GoogleTest

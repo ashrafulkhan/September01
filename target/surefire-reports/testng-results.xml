@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="3688" started-at="2018-09-16T03:09:20Z" finished-at="2018-09-16T03:09:24Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="3688" started-at="2018-09-16T03:09:20Z" finished-at="2018-09-16T03:09:24Z">
+      <class name="com.shiftedtech.September01.GoogleTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:com.shiftedtech.September01.GoogleTest@6b143ee9]" name="before" is-config="true" duration-ms="1748" started-at="2018-09-16T03:09:20Z" finished-at="2018-09-16T03:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="test01()[pri:0, instance:com.shiftedtech.September01.GoogleTest@6b143ee9]" name="test01" duration-ms="1922" started-at="2018-09-16T03:09:22Z" finished-at="2018-09-16T03:09:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.shiftedtech.September01.GoogleTest@6b143ee9]" name="teardown" is-config="true" duration-ms="0" started-at="2018-09-16T03:09:24Z" finished-at="2018-09-16T03:09:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.shiftedtech.September01.GoogleTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
